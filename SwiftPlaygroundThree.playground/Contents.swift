@@ -18,3 +18,20 @@ for name in fruitnames{
     print("I like to eat " + name)
 }
 print(fruitnames[2])
+
+
+var toprappers : [String]
+
+
+toprappers = ["Dylon","Dylon","Dylon", "Dylon", "Dylon", "Dylon", "Dylon", "Dylon"]
+
+print(toprappers)
+
+print()
+
+
+for names in toprappers{
+    print("Top 8 Dead or Alive " + names)
+}
+
+print(toprappers[1])
